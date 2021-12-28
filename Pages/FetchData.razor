@@ -1,0 +1,152 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject NotificationService NotificationService
+
+<PageTitle>G3 Well Translator</PageTitle>
+
+@if (mywelldata == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+     <div class="d-flex flex-row">
+        <div class="col md-2">
+            <RadzenCard>
+                <RadzenTemplateForm TItem="WellData" Data="@question" Submit=@OnSubmit>
+                    <div class="row" style="margin-bottom: 16px">
+                        <div class="col-md-3">
+                            <RadzenLabel Text="Klein:" />
+                        </div>
+                        <div class="col">
+                            <RadzenTextBox @bind-Value="@question.Klein" Name="Klein"  Class="w-100" />
+                
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom: 16px">
+                        <div class="col-md-3">
+                            <RadzenLabel Text="Groß:" />
+                        </div>
+                        <div class="col-md-9">
+                            <RadzenTextBox @bind-Value="@question.Gross" Name="Gross"  Class="w-100" />
+                
+                        </div>
+                    </div>
+   
+                    <div class="row">
+                        <div class="col-md-6"></div>
+                        <div class="col-md-3"> <RadzenButton Text="Clear List" Style="width: 140px;" ButtonStyle="ButtonStyle.Warning" Click=@Reset /></div>
+                        <div class="col-md-3 text-end">
+            
+                            <RadzenButton ButtonType="ButtonType.Submit" Text="Submit" />
+                        </div>
+                    </div>
+                </RadzenTemplateForm>
+            </RadzenCard>
+        </div>
+        <div class="col md-10">
+            <RadzenCard>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Klein</th>
+                            <th>Gross</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (WellData entry in history)
+                        {
+                            <tr>
+                                <td>@entry.Klein</td>
+                                <td>@entry.Gross</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </RadzenCard>
+                
+        </div>
+     </div>
+}
+
+@code {
+    private WellData[]? mywelldata;
+    private List<WellData> history = new List<WellData>();
+    private WellData question = new WellData();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        mywelldata = await Http.GetFromJsonAsync<WellData[]>("sample-data/klein_gross.json");
+
+
+
+    }
+
+    public class WellData
+    {
+        public string Klein { get; set; } 
+        public string Gross { get; set; } 
+    }
+
+
+
+    void OnSubmit(WellData myquestion)
+    {
+        bool errorfound;
+        errorfound = false;
+        if(String.IsNullOrEmpty(myquestion.Klein) && String.IsNullOrEmpty(myquestion.Gross)== null)
+        {
+            ShowNotification(new NotificationMessage { Severity = NotificationSeverity.Info, Summary = "Fehler", Detail = "Bitte Werte angeben!", Duration = 4000 });
+            errorfound = true;
+        } 
+        if(String.IsNullOrEmpty(myquestion.Klein)){ myquestion.Klein = String.Empty; }
+        if(String.IsNullOrEmpty(myquestion.Gross)){ myquestion.Gross = String.Empty; }
+
+        if(myquestion.Klein.Count() > 0 && myquestion.Gross.Count() >0)
+        {
+            ShowNotification(new NotificationMessage { Severity = NotificationSeverity.Info, Summary = "Fehler", Detail = "Bitte nur einen Wert angeben!", Duration = 4000 });
+            errorfound = true;
+        }
+
+
+        WellData result;
+        result = new WellData();
+        if(myquestion.Klein.Count() >0 && myquestion.Gross.Count() == 0)
+        {
+
+            result = mywelldata.Where(i => i.Klein.ToUpper() == myquestion.Klein.ToUpper()).FirstOrDefault();
+
+        }
+        else
+        {
+            result = mywelldata.Where(i => i.Gross.ToUpper() == myquestion.Gross.ToUpper()).FirstOrDefault();   
+        }
+
+        if (result == null)
+        {
+            ShowNotification(new NotificationMessage { Severity = NotificationSeverity.Error, Summary = "Fehler", Detail = "Nichts gefunden!", Duration = 4000 });
+            errorfound = true;
+        }
+        if(!errorfound)
+        {
+            question =  new WellData();
+            history.Add(new WellData{Klein = result.Klein, Gross = result.Gross});
+        }
+        else
+        {
+            question = new WellData();
+        }
+
+        
+
+    }
+    void Reset()
+    {
+        history = new List<WellData>();
+    }
+    void ShowNotification(NotificationMessage message)
+    {
+        NotificationService.Notify(message);
+    }
+}

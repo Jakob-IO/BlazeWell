@@ -1,0 +1,1538 @@
+﻿[
+	{
+		"Klein": "1A1",
+		"Gross": "A1"
+	},
+	{
+		"Klein": "3A1",
+		"Gross": "A2"
+	},
+	{
+		"Klein": "1A2",
+		"Gross": "A3"
+	},
+	{
+		"Klein": "3A2",
+		"Gross": "A4"
+	},
+	{
+		"Klein": "1A3",
+		"Gross": "A5"
+	},
+	{
+		"Klein": "3A3",
+		"Gross": "A6"
+	},
+	{
+		"Klein": "1A4",
+		"Gross": "A7"
+	},
+	{
+		"Klein": "3A4",
+		"Gross": "A8"
+	},
+	{
+		"Klein": "1A5",
+		"Gross": "A9"
+	},
+	{
+		"Klein": "3A5",
+		"Gross": "A10"
+	},
+	{
+		"Klein": "1A6",
+		"Gross": "A11"
+	},
+	{
+		"Klein": "3A6",
+		"Gross": "A12"
+	},
+	{
+		"Klein": "1A7",
+		"Gross": "A13"
+	},
+	{
+		"Klein": "3A7",
+		"Gross": "A14"
+	},
+	{
+		"Klein": "1A8",
+		"Gross": "A15"
+	},
+	{
+		"Klein": "3A8",
+		"Gross": "A16"
+	},
+	{
+		"Klein": "1A9",
+		"Gross": "A17"
+	},
+	{
+		"Klein": "3A9",
+		"Gross": "A18"
+	},
+	{
+		"Klein": "1A10",
+		"Gross": "A19"
+	},
+	{
+		"Klein": "3A10",
+		"Gross": "A20"
+	},
+	{
+		"Klein": "1A11",
+		"Gross": "A21"
+	},
+	{
+		"Klein": "3A11",
+		"Gross": "A22"
+	},
+	{
+		"Klein": "1A12",
+		"Gross": "A23"
+	},
+	{
+		"Klein": "3A12",
+		"Gross": "A24"
+	},
+	{
+		"Klein": "2A1",
+		"Gross": "B1"
+	},
+	{
+		"Klein": "4A1",
+		"Gross": "B2"
+	},
+	{
+		"Klein": "2A2",
+		"Gross": "B3"
+	},
+	{
+		"Klein": "4A2",
+		"Gross": "B4"
+	},
+	{
+		"Klein": "2A3",
+		"Gross": "B5"
+	},
+	{
+		"Klein": "4A3",
+		"Gross": "B6"
+	},
+	{
+		"Klein": "2A4",
+		"Gross": "B7"
+	},
+	{
+		"Klein": "4A4",
+		"Gross": "B8"
+	},
+	{
+		"Klein": "2A5",
+		"Gross": "B9"
+	},
+	{
+		"Klein": "4A5",
+		"Gross": "B10"
+	},
+	{
+		"Klein": "2A6",
+		"Gross": "B11"
+	},
+	{
+		"Klein": "4A6",
+		"Gross": "B12"
+	},
+	{
+		"Klein": "2A7",
+		"Gross": "B13"
+	},
+	{
+		"Klein": "4A7",
+		"Gross": "B14"
+	},
+	{
+		"Klein": "2A8",
+		"Gross": "B15"
+	},
+	{
+		"Klein": "4A8",
+		"Gross": "B16"
+	},
+	{
+		"Klein": "2A9",
+		"Gross": "B17"
+	},
+	{
+		"Klein": "4A9",
+		"Gross": "B18"
+	},
+	{
+		"Klein": "2A10",
+		"Gross": "B19"
+	},
+	{
+		"Klein": "4A10",
+		"Gross": "B20"
+	},
+	{
+		"Klein": "2A11",
+		"Gross": "B21"
+	},
+	{
+		"Klein": "4A11",
+		"Gross": "B22"
+	},
+	{
+		"Klein": "2A12",
+		"Gross": "B23"
+	},
+	{
+		"Klein": "4A12",
+		"Gross": "B24"
+	},
+	{
+		"Klein": "1B1",
+		"Gross": "C1"
+	},
+	{
+		"Klein": "3B1",
+		"Gross": "C2"
+	},
+	{
+		"Klein": "1B2",
+		"Gross": "C3"
+	},
+	{
+		"Klein": "3B2",
+		"Gross": "C4"
+	},
+	{
+		"Klein": "1B3",
+		"Gross": "C5"
+	},
+	{
+		"Klein": "3B3",
+		"Gross": "C6"
+	},
+	{
+		"Klein": "1B4",
+		"Gross": "C7"
+	},
+	{
+		"Klein": "3B4",
+		"Gross": "C8"
+	},
+	{
+		"Klein": "1B5",
+		"Gross": "C9"
+	},
+	{
+		"Klein": "3B5",
+		"Gross": "C10"
+	},
+	{
+		"Klein": "1B6",
+		"Gross": "C11"
+	},
+	{
+		"Klein": "3B6",
+		"Gross": "C12"
+	},
+	{
+		"Klein": "1B7",
+		"Gross": "C13"
+	},
+	{
+		"Klein": "3B7",
+		"Gross": "C14"
+	},
+	{
+		"Klein": "1B8",
+		"Gross": "C15"
+	},
+	{
+		"Klein": "3B8",
+		"Gross": "C16"
+	},
+	{
+		"Klein": "1B9",
+		"Gross": "C17"
+	},
+	{
+		"Klein": "3B9",
+		"Gross": "C18"
+	},
+	{
+		"Klein": "1B10",
+		"Gross": "C19"
+	},
+	{
+		"Klein": "3B10",
+		"Gross": "C20"
+	},
+	{
+		"Klein": "1B11",
+		"Gross": "C21"
+	},
+	{
+		"Klein": "3B11",
+		"Gross": "C22"
+	},
+	{
+		"Klein": "1B12",
+		"Gross": "C23"
+	},
+	{
+		"Klein": "3B12",
+		"Gross": "C24"
+	},
+	{
+		"Klein": "2B1",
+		"Gross": "D1"
+	},
+	{
+		"Klein": "4B1",
+		"Gross": "D2"
+	},
+	{
+		"Klein": "2B2",
+		"Gross": "D3"
+	},
+	{
+		"Klein": "4B2",
+		"Gross": "D4"
+	},
+	{
+		"Klein": "2B3",
+		"Gross": "D5"
+	},
+	{
+		"Klein": "4B3",
+		"Gross": "D6"
+	},
+	{
+		"Klein": "2B4",
+		"Gross": "D7"
+	},
+	{
+		"Klein": "4B4",
+		"Gross": "D8"
+	},
+	{
+		"Klein": "2B5",
+		"Gross": "D9"
+	},
+	{
+		"Klein": "4B5",
+		"Gross": "D10"
+	},
+	{
+		"Klein": "2B6",
+		"Gross": "D11"
+	},
+	{
+		"Klein": "4B6",
+		"Gross": "D12"
+	},
+	{
+		"Klein": "2B7",
+		"Gross": "D13"
+	},
+	{
+		"Klein": "4B7",
+		"Gross": "D14"
+	},
+	{
+		"Klein": "2B8",
+		"Gross": "D15"
+	},
+	{
+		"Klein": "4B8",
+		"Gross": "D16"
+	},
+	{
+		"Klein": "2B9",
+		"Gross": "D17"
+	},
+	{
+		"Klein": "4B9",
+		"Gross": "D18"
+	},
+	{
+		"Klein": "2B10",
+		"Gross": "D19"
+	},
+	{
+		"Klein": "4B10",
+		"Gross": "D20"
+	},
+	{
+		"Klein": "2B11",
+		"Gross": "D21"
+	},
+	{
+		"Klein": "4B11",
+		"Gross": "D22"
+	},
+	{
+		"Klein": "2B12",
+		"Gross": "D23"
+	},
+	{
+		"Klein": "4B12",
+		"Gross": "D24"
+	},
+	{
+		"Klein": "1C1",
+		"Gross": "E1"
+	},
+	{
+		"Klein": "3C1",
+		"Gross": "E2"
+	},
+	{
+		"Klein": "1C2",
+		"Gross": "E3"
+	},
+	{
+		"Klein": "3C2",
+		"Gross": "E4"
+	},
+	{
+		"Klein": "1C3",
+		"Gross": "E5"
+	},
+	{
+		"Klein": "3C3",
+		"Gross": "E6"
+	},
+	{
+		"Klein": "1C4",
+		"Gross": "E7"
+	},
+	{
+		"Klein": "3C4",
+		"Gross": "E8"
+	},
+	{
+		"Klein": "1C5",
+		"Gross": "E9"
+	},
+	{
+		"Klein": "3C5",
+		"Gross": "E10"
+	},
+	{
+		"Klein": "1C6",
+		"Gross": "E11"
+	},
+	{
+		"Klein": "3C6",
+		"Gross": "E12"
+	},
+	{
+		"Klein": "1C7",
+		"Gross": "E13"
+	},
+	{
+		"Klein": "3C7",
+		"Gross": "E14"
+	},
+	{
+		"Klein": "1C8",
+		"Gross": "E15"
+	},
+	{
+		"Klein": "3C8",
+		"Gross": "E16"
+	},
+	{
+		"Klein": "1C9",
+		"Gross": "E17"
+	},
+	{
+		"Klein": "3C9",
+		"Gross": "E18"
+	},
+	{
+		"Klein": "1C10",
+		"Gross": "E19"
+	},
+	{
+		"Klein": "3C10",
+		"Gross": "E20"
+	},
+	{
+		"Klein": "1C11",
+		"Gross": "E21"
+	},
+	{
+		"Klein": "3C11",
+		"Gross": "E22"
+	},
+	{
+		"Klein": "1C12",
+		"Gross": "E23"
+	},
+	{
+		"Klein": "3C12",
+		"Gross": "E24"
+	},
+	{
+		"Klein": "2C1",
+		"Gross": "F1"
+	},
+	{
+		"Klein": "4C1",
+		"Gross": "F2"
+	},
+	{
+		"Klein": "2C2",
+		"Gross": "F3"
+	},
+	{
+		"Klein": "4C2",
+		"Gross": "F4"
+	},
+	{
+		"Klein": "2C3",
+		"Gross": "F5"
+	},
+	{
+		"Klein": "4C3",
+		"Gross": "F6"
+	},
+	{
+		"Klein": "2C4",
+		"Gross": "F7"
+	},
+	{
+		"Klein": "4C4",
+		"Gross": "F8"
+	},
+	{
+		"Klein": "2C5",
+		"Gross": "F9"
+	},
+	{
+		"Klein": "4C5",
+		"Gross": "F10"
+	},
+	{
+		"Klein": "2C6",
+		"Gross": "F11"
+	},
+	{
+		"Klein": "4C6",
+		"Gross": "F12"
+	},
+	{
+		"Klein": "2C7",
+		"Gross": "F13"
+	},
+	{
+		"Klein": "4C7",
+		"Gross": "F14"
+	},
+	{
+		"Klein": "2C8",
+		"Gross": "F15"
+	},
+	{
+		"Klein": "4C8",
+		"Gross": "F16"
+	},
+	{
+		"Klein": "2C9",
+		"Gross": "F17"
+	},
+	{
+		"Klein": "4C9",
+		"Gross": "F18"
+	},
+	{
+		"Klein": "2C10",
+		"Gross": "F19"
+	},
+	{
+		"Klein": "4C10",
+		"Gross": "F20"
+	},
+	{
+		"Klein": "2C11",
+		"Gross": "F21"
+	},
+	{
+		"Klein": "4C11",
+		"Gross": "F22"
+	},
+	{
+		"Klein": "2C12",
+		"Gross": "F23"
+	},
+	{
+		"Klein": "4C12",
+		"Gross": "F24"
+	},
+	{
+		"Klein": "1D1",
+		"Gross": "G1"
+	},
+	{
+		"Klein": "3D1",
+		"Gross": "G2"
+	},
+	{
+		"Klein": "1D2",
+		"Gross": "G3"
+	},
+	{
+		"Klein": "3D2",
+		"Gross": "G4"
+	},
+	{
+		"Klein": "1D3",
+		"Gross": "G5"
+	},
+	{
+		"Klein": "3D3",
+		"Gross": "G6"
+	},
+	{
+		"Klein": "1D4",
+		"Gross": "G7"
+	},
+	{
+		"Klein": "3D4",
+		"Gross": "G8"
+	},
+	{
+		"Klein": "1D5",
+		"Gross": "G9"
+	},
+	{
+		"Klein": "3D5",
+		"Gross": "G10"
+	},
+	{
+		"Klein": "1D6",
+		"Gross": "G11"
+	},
+	{
+		"Klein": "3D6",
+		"Gross": "G12"
+	},
+	{
+		"Klein": "1D7",
+		"Gross": "G13"
+	},
+	{
+		"Klein": "3D7",
+		"Gross": "G14"
+	},
+	{
+		"Klein": "1D8",
+		"Gross": "G15"
+	},
+	{
+		"Klein": "3D8",
+		"Gross": "G16"
+	},
+	{
+		"Klein": "1D9",
+		"Gross": "G17"
+	},
+	{
+		"Klein": "3D9",
+		"Gross": "G18"
+	},
+	{
+		"Klein": "1D10",
+		"Gross": "G19"
+	},
+	{
+		"Klein": "3D10",
+		"Gross": "G20"
+	},
+	{
+		"Klein": "1D11",
+		"Gross": "G21"
+	},
+	{
+		"Klein": "3D11",
+		"Gross": "G22"
+	},
+	{
+		"Klein": "1D12",
+		"Gross": "G23"
+	},
+	{
+		"Klein": "3D12",
+		"Gross": "G24"
+	},
+	{
+		"Klein": "2D1",
+		"Gross": "H1"
+	},
+	{
+		"Klein": "4D1",
+		"Gross": "H2"
+	},
+	{
+		"Klein": "2D2",
+		"Gross": "H3"
+	},
+	{
+		"Klein": "4D2",
+		"Gross": "H4"
+	},
+	{
+		"Klein": "2D3",
+		"Gross": "H5"
+	},
+	{
+		"Klein": "4D3",
+		"Gross": "H6"
+	},
+	{
+		"Klein": "2D4",
+		"Gross": "H7"
+	},
+	{
+		"Klein": "4D4",
+		"Gross": "H8"
+	},
+	{
+		"Klein": "2D5",
+		"Gross": "H9"
+	},
+	{
+		"Klein": "4D5",
+		"Gross": "H10"
+	},
+	{
+		"Klein": "2D6",
+		"Gross": "H11"
+	},
+	{
+		"Klein": "4D6",
+		"Gross": "H12"
+	},
+	{
+		"Klein": "2D7",
+		"Gross": "H13"
+	},
+	{
+		"Klein": "4D7",
+		"Gross": "H14"
+	},
+	{
+		"Klein": "2D8",
+		"Gross": "H15"
+	},
+	{
+		"Klein": "4D8",
+		"Gross": "H16"
+	},
+	{
+		"Klein": "2D9",
+		"Gross": "H17"
+	},
+	{
+		"Klein": "4D9",
+		"Gross": "H18"
+	},
+	{
+		"Klein": "2D10",
+		"Gross": "H19"
+	},
+	{
+		"Klein": "4D10",
+		"Gross": "H20"
+	},
+	{
+		"Klein": "2D11",
+		"Gross": "H21"
+	},
+	{
+		"Klein": "4D11",
+		"Gross": "H22"
+	},
+	{
+		"Klein": "2D12",
+		"Gross": "H23"
+	},
+	{
+		"Klein": "4D12",
+		"Gross": "H24"
+	},
+	{
+		"Klein": "1E1",
+		"Gross": "I1"
+	},
+	{
+		"Klein": "3E1",
+		"Gross": "I2"
+	},
+	{
+		"Klein": "1E2",
+		"Gross": "I3"
+	},
+	{
+		"Klein": "3E2",
+		"Gross": "I4"
+	},
+	{
+		"Klein": "1E3",
+		"Gross": "I5"
+	},
+	{
+		"Klein": "3E3",
+		"Gross": "I6"
+	},
+	{
+		"Klein": "1E4",
+		"Gross": "I7"
+	},
+	{
+		"Klein": "3E4",
+		"Gross": "I8"
+	},
+	{
+		"Klein": "1E5",
+		"Gross": "I9"
+	},
+	{
+		"Klein": "3E5",
+		"Gross": "I10"
+	},
+	{
+		"Klein": "1E6",
+		"Gross": "I11"
+	},
+	{
+		"Klein": "3E6",
+		"Gross": "I12"
+	},
+	{
+		"Klein": "1E7",
+		"Gross": "I13"
+	},
+	{
+		"Klein": "3E7",
+		"Gross": "I14"
+	},
+	{
+		"Klein": "1E8",
+		"Gross": "I15"
+	},
+	{
+		"Klein": "3E8",
+		"Gross": "I16"
+	},
+	{
+		"Klein": "1E9",
+		"Gross": "I17"
+	},
+	{
+		"Klein": "3E9",
+		"Gross": "I18"
+	},
+	{
+		"Klein": "1E10",
+		"Gross": "I19"
+	},
+	{
+		"Klein": "3E10",
+		"Gross": "I20"
+	},
+	{
+		"Klein": "1E11",
+		"Gross": "I21"
+	},
+	{
+		"Klein": "3E11",
+		"Gross": "I22"
+	},
+	{
+		"Klein": "1E12",
+		"Gross": "I23"
+	},
+	{
+		"Klein": "3E12",
+		"Gross": "I24"
+	},
+	{
+		"Klein": "2E1",
+		"Gross": "J1"
+	},
+	{
+		"Klein": "4E1",
+		"Gross": "J2"
+	},
+	{
+		"Klein": "2E2",
+		"Gross": "J3"
+	},
+	{
+		"Klein": "4E2",
+		"Gross": "J4"
+	},
+	{
+		"Klein": "2E3",
+		"Gross": "J5"
+	},
+	{
+		"Klein": "4E3",
+		"Gross": "J6"
+	},
+	{
+		"Klein": "2E4",
+		"Gross": "J7"
+	},
+	{
+		"Klein": "4E4",
+		"Gross": "J8"
+	},
+	{
+		"Klein": "2E5",
+		"Gross": "J9"
+	},
+	{
+		"Klein": "4E5",
+		"Gross": "J10"
+	},
+	{
+		"Klein": "2E6",
+		"Gross": "J11"
+	},
+	{
+		"Klein": "4E6",
+		"Gross": "J12"
+	},
+	{
+		"Klein": "2E7",
+		"Gross": "J13"
+	},
+	{
+		"Klein": "4E7",
+		"Gross": "J14"
+	},
+	{
+		"Klein": "2E8",
+		"Gross": "J15"
+	},
+	{
+		"Klein": "4E8",
+		"Gross": "J16"
+	},
+	{
+		"Klein": "2E9",
+		"Gross": "J17"
+	},
+	{
+		"Klein": "4E9",
+		"Gross": "J18"
+	},
+	{
+		"Klein": "2E10",
+		"Gross": "J19"
+	},
+	{
+		"Klein": "4E10",
+		"Gross": "J20"
+	},
+	{
+		"Klein": "2E11",
+		"Gross": "J21"
+	},
+	{
+		"Klein": "4E11",
+		"Gross": "J22"
+	},
+	{
+		"Klein": "2E12",
+		"Gross": "J23"
+	},
+	{
+		"Klein": "4E12",
+		"Gross": "J24"
+	},
+	{
+		"Klein": "1F1",
+		"Gross": "K1"
+	},
+	{
+		"Klein": "3F1",
+		"Gross": "K2"
+	},
+	{
+		"Klein": "1F2",
+		"Gross": "K3"
+	},
+	{
+		"Klein": "3F2",
+		"Gross": "K4"
+	},
+	{
+		"Klein": "1F3",
+		"Gross": "K5"
+	},
+	{
+		"Klein": "3F3",
+		"Gross": "K6"
+	},
+	{
+		"Klein": "1F4",
+		"Gross": "K7"
+	},
+	{
+		"Klein": "3F4",
+		"Gross": "K8"
+	},
+	{
+		"Klein": "1F5",
+		"Gross": "K9"
+	},
+	{
+		"Klein": "3F5",
+		"Gross": "K10"
+	},
+	{
+		"Klein": "1F6",
+		"Gross": "K11"
+	},
+	{
+		"Klein": "3F6",
+		"Gross": "K12"
+	},
+	{
+		"Klein": "1F7",
+		"Gross": "K13"
+	},
+	{
+		"Klein": "3F7",
+		"Gross": "K14"
+	},
+	{
+		"Klein": "1F8",
+		"Gross": "K15"
+	},
+	{
+		"Klein": "3F8",
+		"Gross": "K16"
+	},
+	{
+		"Klein": "1F9",
+		"Gross": "K17"
+	},
+	{
+		"Klein": "3F9",
+		"Gross": "K18"
+	},
+	{
+		"Klein": "1F10",
+		"Gross": "K19"
+	},
+	{
+		"Klein": "3F10",
+		"Gross": "K20"
+	},
+	{
+		"Klein": "1F11",
+		"Gross": "K21"
+	},
+	{
+		"Klein": "3F11",
+		"Gross": "K22"
+	},
+	{
+		"Klein": "1F12",
+		"Gross": "K23"
+	},
+	{
+		"Klein": "3F12",
+		"Gross": "K24"
+	},
+	{
+		"Klein": "2F1",
+		"Gross": "L1"
+	},
+	{
+		"Klein": "4F1",
+		"Gross": "L2"
+	},
+	{
+		"Klein": "2F2",
+		"Gross": "L3"
+	},
+	{
+		"Klein": "4F2",
+		"Gross": "L4"
+	},
+	{
+		"Klein": "2F3",
+		"Gross": "L5"
+	},
+	{
+		"Klein": "4F3",
+		"Gross": "L6"
+	},
+	{
+		"Klein": "2F4",
+		"Gross": "L7"
+	},
+	{
+		"Klein": "4F4",
+		"Gross": "L8"
+	},
+	{
+		"Klein": "2F5",
+		"Gross": "L9"
+	},
+	{
+		"Klein": "4F5",
+		"Gross": "L10"
+	},
+	{
+		"Klein": "2F6",
+		"Gross": "L11"
+	},
+	{
+		"Klein": "4F6",
+		"Gross": "L12"
+	},
+	{
+		"Klein": "2F7",
+		"Gross": "L13"
+	},
+	{
+		"Klein": "4F7",
+		"Gross": "L14"
+	},
+	{
+		"Klein": "2F8",
+		"Gross": "L15"
+	},
+	{
+		"Klein": "4F8",
+		"Gross": "L16"
+	},
+	{
+		"Klein": "2F9",
+		"Gross": "L17"
+	},
+	{
+		"Klein": "4F9",
+		"Gross": "L18"
+	},
+	{
+		"Klein": "2F10",
+		"Gross": "L19"
+	},
+	{
+		"Klein": "4F10",
+		"Gross": "L20"
+	},
+	{
+		"Klein": "2F11",
+		"Gross": "L21"
+	},
+	{
+		"Klein": "4F11",
+		"Gross": "L22"
+	},
+	{
+		"Klein": "2F12",
+		"Gross": "L23"
+	},
+	{
+		"Klein": "4F12",
+		"Gross": "L24"
+	},
+	{
+		"Klein": "1G1",
+		"Gross": "M1"
+	},
+	{
+		"Klein": "3G1",
+		"Gross": "M2"
+	},
+	{
+		"Klein": "1G2",
+		"Gross": "M3"
+	},
+	{
+		"Klein": "3G2",
+		"Gross": "M4"
+	},
+	{
+		"Klein": "1G3",
+		"Gross": "M5"
+	},
+	{
+		"Klein": "3G3",
+		"Gross": "M6"
+	},
+	{
+		"Klein": "1G4",
+		"Gross": "M7"
+	},
+	{
+		"Klein": "3G4",
+		"Gross": "M8"
+	},
+	{
+		"Klein": "1G5",
+		"Gross": "M9"
+	},
+	{
+		"Klein": "3G5",
+		"Gross": "M10"
+	},
+	{
+		"Klein": "1G6",
+		"Gross": "M11"
+	},
+	{
+		"Klein": "3G6",
+		"Gross": "M12"
+	},
+	{
+		"Klein": "1G7",
+		"Gross": "M13"
+	},
+	{
+		"Klein": "3G7",
+		"Gross": "M14"
+	},
+	{
+		"Klein": "1G8",
+		"Gross": "M15"
+	},
+	{
+		"Klein": "3G8",
+		"Gross": "M16"
+	},
+	{
+		"Klein": "1G9",
+		"Gross": "M17"
+	},
+	{
+		"Klein": "3G9",
+		"Gross": "M18"
+	},
+	{
+		"Klein": "1G10",
+		"Gross": "M19"
+	},
+	{
+		"Klein": "3G10",
+		"Gross": "M20"
+	},
+	{
+		"Klein": "1G11",
+		"Gross": "M21"
+	},
+	{
+		"Klein": "3G11",
+		"Gross": "M22"
+	},
+	{
+		"Klein": "1G12",
+		"Gross": "M23"
+	},
+	{
+		"Klein": "3G12",
+		"Gross": "M24"
+	},
+	{
+		"Klein": "2G1",
+		"Gross": "N1"
+	},
+	{
+		"Klein": "4G1",
+		"Gross": "N2"
+	},
+	{
+		"Klein": "2G2",
+		"Gross": "N3"
+	},
+	{
+		"Klein": "4G2",
+		"Gross": "N4"
+	},
+	{
+		"Klein": "2G3",
+		"Gross": "N5"
+	},
+	{
+		"Klein": "4G3",
+		"Gross": "N6"
+	},
+	{
+		"Klein": "2G4",
+		"Gross": "N7"
+	},
+	{
+		"Klein": "4G4",
+		"Gross": "N8"
+	},
+	{
+		"Klein": "2G5",
+		"Gross": "N9"
+	},
+	{
+		"Klein": "4G5",
+		"Gross": "N10"
+	},
+	{
+		"Klein": "2G6",
+		"Gross": "N11"
+	},
+	{
+		"Klein": "4G6",
+		"Gross": "N12"
+	},
+	{
+		"Klein": "2G7",
+		"Gross": "N13"
+	},
+	{
+		"Klein": "4G7",
+		"Gross": "N14"
+	},
+	{
+		"Klein": "2G8",
+		"Gross": "N15"
+	},
+	{
+		"Klein": "4G8",
+		"Gross": "N16"
+	},
+	{
+		"Klein": "2G9",
+		"Gross": "N17"
+	},
+	{
+		"Klein": "4G9",
+		"Gross": "N18"
+	},
+	{
+		"Klein": "2G10",
+		"Gross": "N19"
+	},
+	{
+		"Klein": "4G10",
+		"Gross": "N20"
+	},
+	{
+		"Klein": "2G11",
+		"Gross": "N21"
+	},
+	{
+		"Klein": "4G11",
+		"Gross": "N22"
+	},
+	{
+		"Klein": "2G12",
+		"Gross": "N23"
+	},
+	{
+		"Klein": "4G12",
+		"Gross": "N24"
+	},
+	{
+		"Klein": "1H1",
+		"Gross": "O1"
+	},
+	{
+		"Klein": "3H1",
+		"Gross": "O2"
+	},
+	{
+		"Klein": "1H2",
+		"Gross": "O3"
+	},
+	{
+		"Klein": "3H2",
+		"Gross": "O4"
+	},
+	{
+		"Klein": "1H3",
+		"Gross": "O5"
+	},
+	{
+		"Klein": "3H3",
+		"Gross": "O6"
+	},
+	{
+		"Klein": "1H4",
+		"Gross": "O7"
+	},
+	{
+		"Klein": "3H4",
+		"Gross": "O8"
+	},
+	{
+		"Klein": "1H5",
+		"Gross": "O9"
+	},
+	{
+		"Klein": "3H5",
+		"Gross": "O10"
+	},
+	{
+		"Klein": "1H6",
+		"Gross": "O11"
+	},
+	{
+		"Klein": "3H6",
+		"Gross": "O12"
+	},
+	{
+		"Klein": "1H7",
+		"Gross": "O13"
+	},
+	{
+		"Klein": "3H7",
+		"Gross": "O14"
+	},
+	{
+		"Klein": "1H8",
+		"Gross": "O15"
+	},
+	{
+		"Klein": "3H8",
+		"Gross": "O16"
+	},
+	{
+		"Klein": "1H9",
+		"Gross": "O17"
+	},
+	{
+		"Klein": "3H9",
+		"Gross": "O18"
+	},
+	{
+		"Klein": "1H10",
+		"Gross": "O19"
+	},
+	{
+		"Klein": "3H10",
+		"Gross": "O20"
+	},
+	{
+		"Klein": "1H11",
+		"Gross": "O21"
+	},
+	{
+		"Klein": "3H11",
+		"Gross": "O22"
+	},
+	{
+		"Klein": "1H12",
+		"Gross": "O23"
+	},
+	{
+		"Klein": "3H12",
+		"Gross": "O24"
+	},
+	{
+		"Klein": "2H1",
+		"Gross": "P1"
+	},
+	{
+		"Klein": "4H1",
+		"Gross": "P2"
+	},
+	{
+		"Klein": "2H2",
+		"Gross": "P3"
+	},
+	{
+		"Klein": "4H2",
+		"Gross": "P4"
+	},
+	{
+		"Klein": "2H3",
+		"Gross": "P5"
+	},
+	{
+		"Klein": "4H3",
+		"Gross": "P6"
+	},
+	{
+		"Klein": "2H4",
+		"Gross": "P7"
+	},
+	{
+		"Klein": "4H4",
+		"Gross": "P8"
+	},
+	{
+		"Klein": "2H5",
+		"Gross": "P9"
+	},
+	{
+		"Klein": "4H5",
+		"Gross": "P10"
+	},
+	{
+		"Klein": "2H6",
+		"Gross": "P11"
+	},
+	{
+		"Klein": "4H6",
+		"Gross": "P12"
+	},
+	{
+		"Klein": "2H7",
+		"Gross": "P13"
+	},
+	{
+		"Klein": "4H7",
+		"Gross": "P14"
+	},
+	{
+		"Klein": "2H8",
+		"Gross": "P15"
+	},
+	{
+		"Klein": "4H8",
+		"Gross": "P16"
+	},
+	{
+		"Klein": "2H9",
+		"Gross": "P17"
+	},
+	{
+		"Klein": "4H9",
+		"Gross": "P18"
+	},
+	{
+		"Klein": "2H10",
+		"Gross": "P19"
+	},
+	{
+		"Klein": "4H10",
+		"Gross": "P20"
+	},
+	{
+		"Klein": "2H11",
+		"Gross": "P21"
+	},
+	{
+		"Klein": "4H11",
+		"Gross": "P22"
+	},
+	{
+		"Klein": "2H12",
+		"Gross": "P23"
+	},
+	{
+		"Klein": "4H12",
+		"Gross": "P24"
+	}
+]
